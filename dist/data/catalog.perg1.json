@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Перголы алюминиевые"
+	},
+	{
+		"image": "img/perg1.jpg",
+		"href": "/catalog/perg1/perg1detail",
+		"title": "T1",
+		"caption": "Пергола Т1 — моторизированный тент для установки в металлические,  деревянные и т.п. конструкции."
+	},
+	{
+		"image": "img/perg2.jpg",
+		"href": "/catalog/perg1/perg2detail",
+		"title": "A1 & A1UNO",
+		"caption": "Пергола А1 — пергольный тент из алюминиевого опорного каркаса с max. выносом 5.5 м. Угол наклона — min 7°"
+	},
+	{
+		"image": "img/perg3.jpg",
+		"href": "/catalog/perg1/perg3detail",
+		"title": "A3",
+		"caption": "Пергола А3 — пергольный тент из алюминиевого опорного каркаса с max. выносом до 12 м. Угол наклона — min 7° выносом до 12 м. Угол наклона — min 7°"
+	},
+	{
+		"image": "img/perg4.jpg",
+		"href": "/catalog/perg1/perg4detail",
+		"title": "Пергола UNO&DUO A3",
+		"caption": "Пергола А3 — Угол наклона — min 7°"
+	}
+]

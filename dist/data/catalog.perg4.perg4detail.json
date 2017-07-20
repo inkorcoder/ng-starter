@@ -1,0 +1,174 @@
+{
+	"href": "catalog/perg1/perg1detail",
+	"image": "img/perg1.jpg",
+	"title": "ПЕРГОЛА A1 & A1 UNO",
+	"caption": "Пергола А1 — пергольный тент из алюминиевого опорного каркаса с max. выносом 5.5 м. [br] Угол наклона — min 7°",
+	"body": [
+		{
+			"type": "accordeon",
+			"anchor": "Материалы",
+			"opened": false,
+			"body": [
+				{ "type": "text", "content": "[b]Тент[/b] - ПВХ 850 г/м2 Black-out.[br][b]Профиль[/b] - экструдированный алюминий.[br][b]Заглушки[/b] - Nylon с UF защитой.[br][b]Узлы крепления[/b] - оцинкованная сталь, алюминий.[br][b]Метизы[/b] - нержавеющая сталь, необходимо соблюдать рекомендации.[br][b]Покраска[/b] - порошковое покрытие."},
+				{
+					"type": "carousel",
+					"title": "Конфигурация тента",
+					"items": [
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "Тип А" },
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "Тип Б" },
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "Тип В длинное название тут" },
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "Тип Г ооочень длинное название тут оно так получилось" }
+					]
+				},
+				{
+					"type": "paragraph",
+					"content": "[b]Тип А-B-C[/b] — изготовление возможно с 4-мя направляющими."
+				},
+				{
+					"type": "paragraph",
+					"content": "[b]Тип D-G[/b] — изготовление только с 2-мя направляющими."
+				},
+				{
+					"type": "paragraph",
+					"content": "[b]Тип F[/b] — изготовление возможно с 3-мя направляющими."
+				},
+				{
+					"type": "carousel",
+					"title": "Вид с направляющими",
+					"items": [
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "С одной направляющей" },
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "С двумя направляющими" },
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "Тип В длинное название тут" },
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "Тип Г ооочень длинное название тут оно так получилось" }
+					]
+				}
+			]
+		},
+		{
+			"type": "accordeon",
+			"anchor": "Технические параметры",
+			"opened": false,
+			"body": [
+				{ "type": "text", "content": "P — вынос конструкции по горизонту.[br]B — размер парковки тента от направляющей.[br]b — высота провиса тента от верха балки.[br]N — количество профилей тента." },
+				{
+					"type": "layout",
+					"body": [
+						{
+							"type": "table",
+							"align": "center",
+							"title": "Технические параметры изделия A1",
+							"thead": [ "P, cm", "b, cm", "B, cm", "N, шт" ],
+							"tbody": [
+								[ "2a50", "31", "56", "4" ],
+								[ "300", "31", "61", "5" ],
+								[ "350", "31", "67", "6" ],
+								[ "400", "32", "72", "7" ],
+								[ "450", "33", "77", "8" ],
+								[ "500", "34", "83", "9" ],
+								[ "550", "35", "88", "10" ]
+							],
+							"caption": "ВНИМАНИЕ! Данные считаются справочными, и не являются точными!"
+						},
+						{
+							"type": "image",
+							"href": "img/perg1.png"
+						}
+					]
+				},
+				{ "type": "text", "content": "А - стандарт maх. углол наклона 7°[br]Н1 – стандарт max. 4.0 м[br]Н2 – стандарт max. 3.0 м" },
+				{
+					"type": "carousel",
+					"title": "",
+					"items": [
+						{ "image": "img/perg2.png", "href": "catalog/perg1/", "caption": "" },
+						{ "image": "img/perg2.png", "href": "catalog/perg1/", "caption": "" }
+					]
+				}
+			]
+		},
+		{
+			"type": "accordeon",
+			"anchor": "Комплектация",
+			"opened": false,
+			"body": [
+				{
+					"type": "layout",
+					"body": [
+						{
+							"type": "image",
+							"href": "img/perg1.png"
+						},
+						{
+							"type": "table",
+							"title": "Комплектация",
+							"align": "left",
+							"thead": [ "Наименование деталей", "Комплектация" ],
+							"tbody": [
+								[ "1. Напраляющая в сборе", "стандарт" ],
+								[ "2. Колонна в сборе", "стандарт" ],
+								[ "3. Фронтальный профиль", "стандарт" ],
+								[ "4. Желоб", "опция" ],
+								[ "5. Профиль колонна для поддержки мотора", "стандарт" ],
+								[ "6. Профиль для поддержки козырька", "опция***" ],
+								[ "7. Короб мотора", "опция" ],
+								[ "8. Тимпани в сборе", "опция" ],
+								[ "9. Профиль колонна торцевая", "опция*" ],
+								[ "10. Задняя опора в сборе", "стандарт**" ],
+								[ "11. Задняя балка", "стандарт**" ],
+								[ "12. Фальшпанель", "опция**" ],
+								[ "13. Козырек защитный", "опция" ]
+							],
+							"caption": "* комплектуется в опции \"ТИМПАНИ\"[br]** комплектуется в A1 UNO[br]*** комплектуется в опции \"Защитный козырек\""
+						}
+					]
+				},
+				{ "type": "hr" },
+				{
+					"type": "carousel",
+					"title": "Основные размеры изделия А1",
+					"items": [
+						{ "image": "img/perg1.png", "href": "catalog/perg1/", "caption": "" },
+						{ "image": "img/perg2.png", "href": "catalog/perg1/", "caption": "" }
+					]
+				},
+				{ "type": "hr" },
+				{
+					"type": "carousel",
+					"title": "Тип монтажа",
+					"items": [
+						{ "image": "img/perg4.png", "href": "catalog/perg1/", "caption": "Монтаж к полу" },
+						{ "image": "img/perg2.png", "href": "catalog/perg1/", "caption": "Монтаж стеновой" },
+						{ "image": "img/perg3.png", "href": "catalog/perg1/", "caption": "Монтаж потолочный" }
+					]
+				}
+			]
+		},
+		{
+			"type": "accordeon",
+			"anchor": "Цвет",
+			"opened": false,
+			"body": [
+				{
+					"type": "colors",
+					"body": [
+						{ "color": "#f8f4e9", "label": "Белый RAL 9003" },
+						{ "color": "#ded3c1", "label": "Слоновая кость RAL1013" },
+						{ "color": "#381914", "label": "Коричневый RAL 8019" }
+					]
+				},
+				{ "type": "paragraph", "content": "Цвет по RAL: наценка 5%; металлик 7%." },
+				{ "type": "text", "content": "Детали из ПВХ не окрашиваются (поставляются только в стандарте: Белый; Черный, Сл.кость)." }
+			]
+		},
+		{
+			"type": "carousel",
+			"anchor": "Конфигурация тента",
+			"items": [
+				{ "image": "img/perg1.jpg", "caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, molestias!" },
+				{ "image": "img/perg2.jpg", "caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, sunt?" },
+				{ "image": "img/perg3.jpg", "caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, amet! длинное название тут" },
+				{ "image": "img/perg4.jpg", "caption": "Тип Г ооочень длинное название тут оно так получилось" }
+			]
+		}
+	]
+}

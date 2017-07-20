@@ -1,0 +1,91 @@
+{
+	"menus": [
+		{
+			"items": [
+				{
+					"href": "/favourites",
+					"name": "Избранное",
+					"counter": 2
+				}
+			]
+		},
+		{
+			"items": [
+				{
+					"href": "/catalog",
+					"name": "Перголы. алюминевый каркас",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Перголы. деревянный каркас",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Нестендартные решения",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Маркизы касетного типа",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Маркизы открытого типа",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Двухсторонние маркизы",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Экран защитный",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Экран откидной",
+					"counter": null
+				}
+			]
+		},
+		{
+			"items": [
+				{
+					"href": "/catalog",
+					"name": "Гарантия и сертификаты",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Конфигурация тента",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Перголы. Описание и функции",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Маркизы. Описание и опции",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "П-образные металлические",
+					"counter": null
+				},
+				{
+					"href": "/catalog",
+					"name": "Моторизация и автоматизация Somfy",
+					"counter": null
+				}
+			]
+		}
+	]
+}

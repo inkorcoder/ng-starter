@@ -1,0 +1,16 @@
+{
+  "open": false,
+  "logLevel": "silent",
+  "port": 1111,
+  "server": {
+    "baseDir": "src",
+    "routes": {
+      "/node_modules": "node_modules"
+    },
+    "middleware": {
+      "0": null
+    }
+  },
+  "interval": 500,
+  "delay": 100,
+}

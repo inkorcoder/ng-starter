@@ -1,0 +1,50 @@
+[
+	{
+		"image": "img/perg1.jpg",
+		"href": "/catalog/perg1",
+		"title": "Перголы. алюминевый каркас",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, voluptate deserunt sapiente tempora iure repudiandae. Veniam, provident ex saepe repellendus ipsa, obcaecati ut explicabo dignissimos quos quasi, iusto maxime hic."
+	},
+	{
+		"image": "img/perg2.jpg",
+		"href": "/catalog/perg2",
+		"title": "Перголы",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam vel, ut molestias placeat incidunt nisi exercitationem consectetur esse, nihil officia fuga ipsa ipsum architecto est porro unde necessitatibus temporibus veniam."
+	},
+	{
+		"image": "img/perg3.jpg",
+		"href": "/catalog/perg3",
+		"title": "Нестендартные решения",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, rem possimus minima? Minus consectetur quae provident odio cupiditate dolores, accusantium tempora commodi assumenda ut. Placeat iusto sunt ut maxime hic."
+	},
+	{
+		"image": "img/perg4.jpg",
+		"href": "/catalog/perg4",
+		"title": "Перголы",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, rem possimus minima? Minus consectetur quae provident odio cupiditate dolores, accusantium tempora commodi assumenda ut. Placeat iusto sunt ut maxime hic."
+	},
+	{
+		"image": "img/perg1.jpg",
+		"href": "/catalog/perg1",
+		"title": "Перголы. алюминевый каркас",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, voluptate deserunt sapiente tempora iure repudiandae. Veniam, provident ex saepe repellendus ipsa, obcaecati ut explicabo dignissimos quos quasi, iusto maxime hic."
+	},
+	{
+		"image": "img/perg2.jpg",
+		"href": "/catalog/perg2",
+		"title": "Перголы",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam vel, ut molestias placeat incidunt nisi exercitationem consectetur esse, nihil officia fuga ipsa ipsum architecto est porro unde necessitatibus temporibus veniam."
+	},
+	{
+		"image": "img/perg3.jpg",
+		"href": "/catalog/perg3",
+		"title": "Нестендартные решения",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, rem possimus minima? Minus consectetur quae provident odio cupiditate dolores, accusantium tempora commodi assumenda ut. Placeat iusto sunt ut maxime hic."
+	},
+	{
+		"image": "img/perg4.jpg",
+		"href": "/catalog/perg4",
+		"title": "Перголы",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, rem possimus minima? Minus consectetur quae provident odio cupiditate dolores, accusantium tempora commodi assumenda ut. Placeat iusto sunt ut maxime hic."
+	}
+]
