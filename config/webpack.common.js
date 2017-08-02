@@ -30,18 +30,21 @@ module.exports = {
         loader: 'html-loader'
       },
       {
-        test: /\.(png|jpe?g|gif|svg|woff|woff2|ttf|eot|ico)$/,
-        loader: 'file-loader?name=img/[name].[ext]'
+        test: /\.(png|jpe?g|gif|svg|ico)$/,
+        loader: 'file-loader?name=[name].[ext]&publicPath=img/'
+      },
+      {
+        test: /\.(woff|woff2|ttf|eot)$/,
+        loader: 'file-loader?name=[name].[ext]&publicPath=fonts/'
       },
       {
         test: /\.css$/,
         exclude: helpers.root('src', 'app'),
-        loader: ExtractTextPlugin.extract({ fallbackLoader: 'style-loader', loader: 'css-loader?sourceMap' })
-      },
-      {
-        test: /\.css$/,
-        include: helpers.root('src', 'app'),
-        loader: 'raw-loader'
+        loader: 'css-loader?publicPath=css/',
+        options: {
+          url: false,
+          import: false
+        }
       }
     ]
   },
